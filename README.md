@@ -29,10 +29,15 @@ _data_conversion.ipynb:_ Jupyter Notebook file containing the data conversion an
 _README.md:_ This README file.
 
 1- Data Conversion Process
+
 2- Read the data from the 'final.csv' file using pandas.
+
 3- Connect to MongoDB using pymongo.
+
 4- Iterate through each row of the data, converting images to binary data using PIL.
+
 5- Insert each row's data into the MongoDB database.
+
 6- Optionally, query the MongoDB database to verify data insertion.
 
 ## **Note**
