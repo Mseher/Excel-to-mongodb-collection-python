@@ -1,5 +1,5 @@
 
-# _**Fitness App Data Conversion**_
+# **Fitness App Data Conversion**
 
 ## **Overview**
 This project aims to convert data from an Excel file to MongoDB for the Fitness App. The Excel data has been saved as a CSV file ('final.csv') and is processed using a Jupyter Notebook.
